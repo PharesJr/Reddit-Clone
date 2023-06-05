@@ -1,16 +1,20 @@
 # hujambo
 
-A new Flutter project.
+A Reddit Clone App : Flutter | Riverpod | Firebase 
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Hujambo is a Reddit Clone with the following features:
+- Sign In using Google/ as a Guest
+- Join Communities, become moderators in Communities
+- Create Posts (Links, Images, Texts)
+- Feeds Screen that allows you to see all posts from Communities you are a part of.
+- Options to UpVote, DownVote, Comment and award a Post.
+- Users and Moderators can Delete Posts.
+- User Profiles which can be Edited
+- Guest Restricted Features.
 
-A few resources to get you started if this is your first Flutter project:
+Project was inspired by Rivaan Ranawat Tutorial
+https://www.youtube.com/watch?v=B8Sx7wGiY-s
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
