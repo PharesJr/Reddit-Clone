@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436200698445",
+    "project_id": "hujambo-app",
+    "storage_bucket": "hujambo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436200698445:android:f7ce7f83d6250ac93da204",
+        "android_client_info": {
+          "package_name": "com.example.hujambo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436200698445-fv3qht3pf223t108rrkl061o55qurn2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwiJc85_Qa3Jo3kdeaxX8FGVQdQofknPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436200698445-fv3qht3pf223t108rrkl061o55qurn2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
